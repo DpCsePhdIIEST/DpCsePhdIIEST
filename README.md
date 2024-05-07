@@ -3,7 +3,7 @@
 - 👀 I’m interested in NLP, ML, Deep Learning, Bioinformatics
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP research projects
-- 📫 How to reach me debapriya.97cse@gmail.com
+- 📫 How to reach me debapriya.97cse@gmail.com or 2023csp003.debapriya@students.iiests.ac.in
   
 
 <!---
